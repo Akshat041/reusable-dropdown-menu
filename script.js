@@ -14,4 +14,4 @@ function setupDropdown(selector = ".dropdown") {
   });
 }
 
-export default setupDropdown;
+export { setupDropdown };
